@@ -1,6 +1,6 @@
 <h1> Hi there 👋</h1>          
 
-- 🔭 I'not working
+- 🔭 I'm not working
 
 - 🌱 I'm learning about programming
 
