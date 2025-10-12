@@ -8,8 +8,6 @@
 
 - 📫 How to reach me: fabiomoisessa14@gmail.com
 
-- 😄 Pronouns: he/him
-
 
 
 
