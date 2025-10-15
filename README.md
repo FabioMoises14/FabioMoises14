@@ -1,9 +1,8 @@
 <h1> Hi there </h1>          
 
-- I'm an Information Systems student
-- I'm learning about programming
-- I want help with back-end development
--  
+- I'm an Information Systems student.
+- I'm training to be a Backend Developer.
+
 -  How to reach me: fabiomoisessa14@gmail.com
 
 
