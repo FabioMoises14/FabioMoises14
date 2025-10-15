@@ -1,12 +1,10 @@
-<h1> Hi there 👋</h1>          
+<h1> Hi there </h1>          
 
-- 🔭 I'm not working
-
-- 🌱 I'm learning about programming
-
-- 🤔 I want help with back-end development   
-
-- 📫 How to reach me: fabiomoisessa14@gmail.com
+- I'm an Information Systems student
+- I'm learning about programming
+- I want help with back-end development
+-  
+-  How to reach me: fabiomoisessa14@gmail.com
 
 
 
