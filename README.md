@@ -1,7 +1,7 @@
 <h1> Hi there </h1>          
 
 - I'm an Information Systems student.
-- I'm currently studying to become a back-end developer. I'm learning the fundamentals of Java, focusing on Object-Oriented Programming (OOP) and data structures.
+- I'm currently studying the fundamentals of computers and programming
 
 -  How to reach me: fabiomoisessa14@gmail.com
 
